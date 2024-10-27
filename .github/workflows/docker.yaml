@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-    branches:
-      - cron: '0 43 15 ? * *'
+  branches:
+    - cron: '0 48 15 ? * *'
 
 
 env:
