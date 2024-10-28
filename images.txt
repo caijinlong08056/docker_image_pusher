@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 xdbin/beancount-gs:latest
 lanol/filecodebox:latest
+hanxi/xiaomusic
