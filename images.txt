@@ -8,3 +8,4 @@ xdbin/beancount-gs:latest
 lanol/filecodebox
 hanxi/xiaomusic
 cmliu/cfnat:latest
+lobehub/lobe-chat
