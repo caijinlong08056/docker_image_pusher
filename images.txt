@@ -9,3 +9,4 @@ lanol/filecodebox
 hanxi/xiaomusic
 cmliu/cfnat:latest
 lobehub/lobe-chat
+linuxserver/paperless-ng
