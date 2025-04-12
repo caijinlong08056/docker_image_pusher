@@ -11,3 +11,4 @@ cmliu/cfnat:latest
 lobehub/lobe-chat
 linuxserver/paperless-ng
 xxnuo/mtranserver
+ghcr.io/beck-8/subs-check:latest
