@@ -10,7 +10,8 @@ hanxi/xiaomusic
 cmliu/cfnat:latest
 lobehub/lobe-chat
 linuxserver/paperless-ng
-xxnuo/mtranserver
+fooololo/alger-music-player:latest
 ghcr.io/beck-8/subs-check:latest
-fooololo/alger-music-player
+
+
 
