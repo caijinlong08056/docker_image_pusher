@@ -12,4 +12,5 @@ lobehub/lobe-chat
 linuxserver/paperless-ng
 xxnuo/mtranserver
 ghcr.io/beck-8/subs-check:latest
-fooololo/alger-music-player:latest
+fooololo/alger-music-player
+
