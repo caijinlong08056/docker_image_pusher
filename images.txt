@@ -11,7 +11,8 @@ cmliu/cfnat:latest
 lobehub/lobe-chat
 linuxserver/paperless-ng
 ghcr.io/beck-8/subs-check:latest
-onlyoffice/documentserver
+#onlyoffice/documentserver
+nextcloud
 
 
 
