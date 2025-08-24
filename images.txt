@@ -13,6 +13,7 @@ linuxserver/paperless-ng
 ghcr.io/beck-8/subs-check:latest
 #onlyoffice/documentserver
 nextcloud
+bellamy/wallos
 
 
 
