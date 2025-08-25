@@ -7,13 +7,14 @@ xhofe/alist:latest
 xdbin/beancount-gs:latest
 lanol/filecodebox
 hanxi/xiaomusic
-cmliu/cfnat:latest
-lobehub/lobe-chat
-linuxserver/paperless-ng
+# cmliu/cfnat:latest
+# lobehub/lobe-chat
+# linuxserver/paperless-ng
 ghcr.io/beck-8/subs-check:latest
 #onlyoffice/documentserver
 nextcloud
 bellamy/wallos
+l4rm4nd/vouchervault
 
 
 
